@@ -19,9 +19,9 @@ My first repository
 | Paragraph | Text |
 	```
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+  "firstName": "Jana Suzanne",
+  "lastName": "Parada",
+  "age": 21
 }
 ```
 	Here's a sentence with a footnote. [^1]
@@ -30,10 +30,10 @@ My first repository
 	### My Great Heading {#custom-id}
 	term
 : definition
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-That is so funny! :joy:
+- [x] Goodmorning
+- [ ] Goodbye
+- [ ] Welcome
+This is so funny! :joy:
 	I need to highlight these ==very important words==.
 H~2~O
 X^2^
